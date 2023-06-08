@@ -1,5 +1,5 @@
 # RestSharp
-Abase framework setup for API Test Automation using RESTSHARP
+Base framework setup for API Test Automation using RESTSHARP
 This small framework contains 4 tests
 1) API Verification with no authentication
 2) API Verification with basic authentication
